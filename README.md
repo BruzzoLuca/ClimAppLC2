@@ -1,6 +1,10 @@
-1. Marcelo Fracassi 50574
-2. Juan Ignacio Pagnanini 51311
-3. Solange Liliana Cottier 50536
-4. Bruzzo Luca 50523
-5. Lara Sofía Cristofanelli 50538
-6. Santiago Guarde 50621
+# TPI Laboratorio de Computación II
+
+En este trabajo práctico integrador de la materia se creó una página/app web aplicando los conceptos que vimos durante el cursado sobre HTML, CSS y JavaScript.
+
+La funcionalidad principal que provee esta página es la de poder visualizar el estado del clima en diferentes ciudades del mundo mediante consultas a la API de OpenWeatherMap
+
+
+## Integrantes del grupo
+
+- Luca Bruzzo
